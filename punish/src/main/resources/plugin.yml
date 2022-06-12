@@ -1,0 +1,6 @@
+name: Punish
+version: '${project.version}'
+main: punish.punish.Punish
+api-version: 1.17
+commands:
+  punish:

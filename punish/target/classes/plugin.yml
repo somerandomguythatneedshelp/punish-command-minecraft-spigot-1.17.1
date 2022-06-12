@@ -1,0 +1,6 @@
+name: Punish
+version: '1.0-SNAPSHOT'
+main: punish.punish.Punish
+api-version: 1.17
+commands:
+  punish:
